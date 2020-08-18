@@ -15,6 +15,8 @@ Installer android Studio
 https://developer.android.com/studio
 Ouvrir Android Studio et ouvrir le projet nommé “BISPA”
 
+
+
 Compiler et installer l’application sur un smartphone Android.
 Ouvrir l’application et choisir le module Bluetooth pour se connecter, dans notre cas nous avons utilisé le module HC-05.
 
