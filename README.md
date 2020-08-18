@@ -11,7 +11,7 @@ https://www.arduino.cc/en/Main/Software
 Ajouter le code “send_data.ino” to Arduino
 Compiler et téléverser le code sur Arduino.Dans notre cas nous avons utilisé (Arduino Nano)
 
-![Alt text](BISPA/BISPA_ARDUINO/arduino_nano.jpg?raw=true "Title")
+![Alt text](https://github.com/MajdoulineBO/BISPA/blob/master/BISPA_ARDUINO/arduino_nano.jpg?raw=true "Title")
 
 Installer android Studio 
 https://developer.android.com/studio
